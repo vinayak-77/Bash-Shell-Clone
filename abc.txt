@@ -1,0 +1,5 @@
+Hello this is a trial file
+This file is created today just to test cat
+And this will be , deleted asap!
+This file will be used to test all the 3 commands of cat.
+The 3 commands are -cat, cat -n, cat -e.
